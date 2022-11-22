@@ -1,6 +1,6 @@
 ### Olá, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Solange Brasileiro de Freitas Neto, sou estudante de Desenvolvimento Web, possuo bacharelado em Direito e atualmente estou cursando Sistemas para Internet. Busco as práticas de desenvolvimento/aprendizado nas linguagens JAVASCRIPT, React, Java, Spring, MongoDB e MYSQL.
+Meu nome é Solange Brasileiro de Freitas Neto, sou estudante de Desenvolvimento Web, possuo bacharelado em Direito e atualmente estou cursando Sistemas para Internet. Busco as práticas de desenvolvimento/aprendizado nas linguagens JAVASCRIPT, React, Java, Spring, MongoDB, MYSQL E POSTGRES.
 
 Minhas redes:
 <ul>
