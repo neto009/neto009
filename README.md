@@ -3,7 +3,6 @@
 <h1 align="center">Meu nome é Neto</h1>
 <h3 align="center">Sou Desenvolvedor back-end Java/Python</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neto009" alt="neto009" /></a> </p>
 
 - 🌱 Atualmente estou estudando **Spring e Bibliotecas Python**
 
