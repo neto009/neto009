@@ -4,9 +4,7 @@
 <h3 align="center">Sou Desenvolvedor back-end Java/Python</h3>
 
 
-- 🌱 Atualmente estou estudando **Spring e Bibliotecas Python**
-
-- 💬 Me pergunte sobre **Java, Python**
+- 🌱 Atualmente trabalho com **Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
