@@ -1,10 +1,10 @@
 ### Olá, sejam bem vindos ao meu GitHub 👋
 
 <h1 align="center">Meu nome é Neto</h1>
-<h3 align="center">Sou Desenvolvedor back-end Java/Python</h3>
+<h3 align="center">Sou Desenvolvedor back-end Java</h3>
 
 
-- 🌱 Atualmente trabalho com **Spring**
+- 🌱 Atualmente trabalho com **Spring + Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
